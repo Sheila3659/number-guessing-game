@@ -5,9 +5,7 @@ A Python game where you guess a secret number between 1 and 100 in 7 attempts or
 ## How to run
 
 1. Install Python 3
-2. Run this in the terminal:
-
-    python main.py
+2. Run this in the terminal: `python main.py`
 
 ## Features
 
